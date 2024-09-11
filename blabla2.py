@@ -1,1 +1,1 @@
-print("perang")
+print("2")
